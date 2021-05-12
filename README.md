@@ -8,3 +8,5 @@
 * Высокая скорость поиска
 * Низкая цена
 
+<script src="https://localhost/neuro.sdk.min.js"></script>
+
